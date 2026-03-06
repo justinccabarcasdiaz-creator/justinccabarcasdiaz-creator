@@ -73,7 +73,7 @@ status     : Siempre aprendiendo, siempre construyendo
 
 [![GitHub](https://img.shields.io/badge/GitHub-justin7-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/justin7)
-[![Email](https://img.shields.io/badge/Email-Escribir-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](: justinccabarcasdiaz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Escribir-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)]
 
 </div>
 
