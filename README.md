@@ -57,7 +57,7 @@ status     : Siempre aprendiendo, siempre construyendo
 
 | Proyecto | Descripción | Stack | Demo |
 |:---|:---|:---:|:---:|
-| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](#About
+| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](
 https://santy401.github.io/MenuProyect/) |
 | 🔲 **Proyecto 2** | Descripción breve del proyecto | HTML · CSS · JS | [Ver →](#) |
 | 🔲 **Proyecto 3** | Descripción breve del proyecto | HTML · CSS | [Ver →](#) |
@@ -73,8 +73,8 @@ https://santy401.github.io/MenuProyect/) |
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-justin7-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/justin7)
-[![Email](https://img.shields.io/badge/Email-Escribir-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/JUSTIN diaz)
+[![Email](https://img.shields.io/badge/Email-jusrinccabarcasdiaz@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)]
 
 </div>
 
