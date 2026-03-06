@@ -57,7 +57,7 @@ status     : Siempre aprendiendo, siempre construyendo
 
 | Proyecto | Descripción | Stack | Demo |
 |:---|:---|:---:|:---:|
-| 🔲 **Proyecto 1** | Creasion de una pagina Web de comida  | HTML · CSS | [Ver →](#) |
+| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](#) |
 | 🔲 **Proyecto 2** | Descripción breve del proyecto | HTML · CSS · JS | [Ver →](#) |
 | 🔲 **Proyecto 3** | Descripción breve del proyecto | HTML · CSS | [Ver →](#) |
 
