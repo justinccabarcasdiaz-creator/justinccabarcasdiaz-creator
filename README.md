@@ -57,7 +57,8 @@ status     : Siempre aprendiendo, siempre construyendo
 
 | Proyecto | Descripción | Stack | Demo |
 |:---|:---|:---:|:---:|
-| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](#) |
+| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](#About
+https://santy401.github.io/MenuProyect/) |
 | 🔲 **Proyecto 2** | Descripción breve del proyecto | HTML · CSS · JS | [Ver →](#) |
 | 🔲 **Proyecto 3** | Descripción breve del proyecto | HTML · CSS | [Ver →](#) |
 
