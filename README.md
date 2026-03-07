@@ -72,7 +72,7 @@ https://santy401.github.io/MenuProyect/) |
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-justin7-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin7)
+[![GitHub](https://img.shields.io/badge/GitHub-justinccabarcasdiaz-creator-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JUSTINdiaz-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)
 [![Email](https://img.shields.io/badge/Email-justinccabarcasdiaz@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)]
 
