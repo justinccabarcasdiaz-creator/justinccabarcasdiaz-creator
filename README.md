@@ -1,89 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Justin7&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20HTML%20%26%20CSS&descAlignY=58&descSize=16&descColor=94a3b8" width="100%"/>
-</div>
+# 💫 About Me:
+🌱 I'm currently learning<br>⚡ Fun fact: I'm still learning
 
-<br/>
 
-<div align="center">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Justin Diaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JUSTIN diaz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ jxtxn6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justinccabarcasdiaz@gmail.com) 
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║  ENPROCESO🫡  ║
-  ╚══════════════════════════════════════════════╝
-```
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=justinccabarcasdiaz-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=justinccabarcasdiaz-creator&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinccabarcasdiaz-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=justinccabarcasdiaz-creator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## `$ whoami`
-
-```yaml
-name       : Justin7
-role       : Frontend Developer
-focus      : HTML · CSS · JavaScript
-passion    : UI limpia, código ordenado
-status     : Siempre aprendiendo, siempre construyendo
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=justinccabarcasdiaz-creator&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=justinccabarcasdiaz-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Stack & Tecnologías
-
-<div align="center">
-
-### Core
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-### Learning
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=for-the-badge&logo=sass&logoColor=CC6699)
-
-</div>
-
----
-
-## 🗂 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Descripción | Stack | Demo |
-|:---|:---|:---:|:---:|
-| 🔲 **Proyecto 1** | Creacion de una pagina Web de comida  | HTML · CSS | [Ver →](
-https://santy401.github.io/MenuProyect/) |
-| 🔲 **Proyecto 2** | Descripción breve del proyecto | HTML · CSS · JS | [Ver →](#) |
-| 🔲 **Proyecto 3** | Descripción breve del proyecto | HTML · CSS | [Ver →](#) |
-
-</div>
-
-> 💡 Reemplaza esta tabla con tus proyectos reales y sus links.
-
----
-
-## 📡 Contacto
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-justin7-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.comjustinccabarcasdiaz-creator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JUSTINDIAZ-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)
-[![Email](https://img.shields.io/badge/Email-justinccabarcasdiaz@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)]
-
-</div>
-
----
-
-<div align="center">
-
-*"El buen diseño es invisible. El mal diseño es obvio."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
